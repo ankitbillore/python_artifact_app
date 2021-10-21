@@ -5,8 +5,5 @@ setup(
      version = "1.0.1",
      auther = "ankit",
      packages=find_packages(),
-     py_modules
-    
-
 )
 
